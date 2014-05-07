@@ -8,8 +8,19 @@ yellow = {255,255,0}
 green = {0,255,0}
 blue = {0,0,255}
 red = {255,0,0}
-purple = {255,0,255}
+purple = {127,0,127}
 cyan = {0,255,255}
+
+-- first additions
+fadedBlue = {127,127,255}
+salmon = {255,127,127}
+maroon = {66,0,0}
+darkRed = {127,0,0}
+redIndian = {255,66,66}
+orange = {255,127,0}
+magenta = {255,0,255}
+peach = {255,192,166}
+pink = {255,192,209}
 
 -- lewis lepton
 -- smokingbunny.net
