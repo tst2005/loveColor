@@ -6,8 +6,7 @@ containing 9 different colors.
 its to use rather than typing more than you need to for colors such as RGB or white/black.
 instead you just type the name of the colors.
 
-9 colors [so far], these are the names you use as well.
-by all means, fork this and add your own. would be nice to keep adding
+there are a few colors [so far], these are the names you use as well. by all means, fork this and add your own. would be nice to keep adding
 
 • black<br>
 • white<br>
@@ -18,6 +17,7 @@ by all means, fork this and add your own. would be nice to keep adding
 • yellow<br>
 • purple<br>
 • cyan<br>
+etc...
 
 if you open up the simpleColors.lua file, you will notice they are just tables, but think its good practice as well.
 
