@@ -23,6 +23,9 @@ if you open up the simpleColors.lua file, you will notice they are just tables, 
 
 when in lua/löve2d. use `require 'simpleColor'`, with simpleColor.lua in the project file.
 
+example<br>
+`love.graphics.setColor(white)`
+
 have fun...
 
 lewis lepton<br>
