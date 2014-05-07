@@ -1,4 +1,4 @@
--- simpleColor
+-- löveColor - originally called simpleColor
 -- allows you to call up color names in lua/löve2d, instead of using the regular RGB [3 sets of numbers] call up.
 -- by all means add to this. it would be nice to add some more.
 
