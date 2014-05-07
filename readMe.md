@@ -7,6 +7,7 @@ its to use rather than typing more than you need to for colors such as RGB or wh
 instead you just type the name of the colors.
 
 9 colors [so far], these are the names you use as well.
+by all means, fork this and add your own. would be nice to keep adding
 
 • black<br>
 • white<br>
@@ -19,6 +20,8 @@ instead you just type the name of the colors.
 • cyan<br>
 
 if you open up the simpleColors.lua file, you will notice they are just tables, but think its good practice as well.
+
+when in lua/löve2d. use `require 'simpleColor'`, with simpleColor.lua in the project file.
 
 have fun...
 
