@@ -14,9 +14,6 @@ there are a few colors [so far], these are the names you use as well. by all mea
 • red<br>
 • green<br>
 • blue<br>
-• yellow<br>
-• purple<br>
-• cyan<br>
 etc...
 
 if you open up the simpleColors.lua file, you will notice they are just tables, but think its good practice as well.
