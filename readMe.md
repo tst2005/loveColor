@@ -18,7 +18,7 @@ etc...
 
 if you open up the löveColor.lua file, you will notice they are just tables, but think its good practice as well.
 
-when in lua/löve2d. use `require 'löveColor'`, with simpleColor.lua in the project file.
+when in lua/löve2d. use `require 'löveColor'`, with löveColor.lua in the project file.
 example<br>
 `love.graphics.setColor(white)`
 
