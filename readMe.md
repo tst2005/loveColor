@@ -23,3 +23,7 @@ have phün...
 
 lewis lepton<br>
 [smoking bunny](http://smokingbunny.net)
+
+*soon to be updates*<br>
+• make all colors in functions, this will be better in the long run<br>
+• allow for color mixing with word association
