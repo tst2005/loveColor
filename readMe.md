@@ -14,8 +14,6 @@ there are a few colors [so far], these are the names you use as well. by all mea
 • blue<br>
 etc...
 
-if you open up the löveColor.lua file, you will notice they are just tables. plus you get to see what colors are in place already.
-
 when in lua/löve2d. use `require 'loveColor'`, with löveColor.lua in the project folder.
 an example is also in the folder [`main.lua`], just so you can get up and running.
 just copy `loveColor.lua` to where you will use it, just to be safe ;)

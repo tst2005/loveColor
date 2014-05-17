@@ -1,3 +1,8 @@
+-- löveColor example
+-- lewis lepton 2014
+
+-- special thanks to simon rahnasto of windmill-games.net
+
 require 'loveColor'
 
 function love.load()
