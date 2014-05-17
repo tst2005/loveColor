@@ -16,7 +16,7 @@ etc...
 
 if you open up the löveColor.lua file, you will notice they are just tables. plus you get to see what colors are in place already.
 
-when in lua/löve2d. use `require 'löveColor'`, with löveColor.lua in the project folder.<br>example<br>
+when in lua/löve2d. use `require 'loveColor'`, with löveColor.lua in the project folder.<br>example<br>
 `love.graphics.setColor(white)`
 
 have phün...
